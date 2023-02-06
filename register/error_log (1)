@@ -1,0 +1,27 @@
+[18-Apr-2022 01:47:53 UTC] PHP Notice:  Undefined index: firstname in /home/crfxhjcacfti/public_html/register/added-user.php on line 24
+[18-Apr-2022 01:48:13 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 31
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 32
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 33
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 34
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 35
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 36
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 37
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 38
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 39
+[18-Apr-2022 01:48:13 UTC] PHP Warning:  Creating default object from empty value in /home/crfxhjcacfti/public_html/register/edited-user.php on line 40
+[27-Apr-2022 23:51:43 UTC] PHP Notice:  Undefined index: firstname in /home/crfxhjcacfti/public_html/register/added-user.php on line 24
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:24 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
+[27-Apr-2022 23:52:32 UTC] PHP Notice:  Trying to get property 'textContent' of non-object in /home/crfxhjcacfti/public_html/register/edited-user.php on line 30
