@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+:root{
+  --orange:#ff9933;
+  --green:#33cc33;
+  --darkerwhite:#eee;
+  --white:#fff;
+  --light-color:#666;
+  --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
+  --border:.2rem solid rgba(0,0,0,.1);
+  --outline:.1rem solid rgba(0,0,0,.1);
+  --outline-hover:.2rem solid var(--green);
+}
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin:0; padding:0;
+  box-sizing: border-box;
+  outline: none; border: none;
+  text-decoration: none;
+  transition: all .2s linear;
+}
+
+html{
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 7rem;
+}
+
+body{
+  background:var(--darkerwhite);
+}
+
+.header{
+  position: fixed;
+  top:0; left:0; right:0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:2rem 9%;
+  box-shadow: var(--box-shadow);
+}
+
+.header .logo{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: var(--green);
+}
+
+.header .logo i{
+  color: var(--orange);
+}
+
+.header .navbar a{
+  font-size: 1.7rem;
+  margin: 0 1rem;
+  color: var(--green);
+}
+
+.header .navbar a:hover{
+  color: var(--orange);
+}
+
+.header .icons div{
+  height: 4.5rem;
+  width: 4.5rem;
+  line-height: 4.5rem;
+  border-radius: .5rem;
+  background: var(--darkerwhite);
+  color: var(--orange);
+  font-size: 2rem;
+  margin-right: .3rem;
+  text-align: center;
+}
+
+.header .icons div:hover{
+  background: var(--orange);
+  color: var(--white);
+}
+
+#menu-btn{
+  display: none;
+}
+
+.header .search-form{
+  position: absolute;
+  top: 110%; right: 5rem;
+  width: 40rem;
+  height: 4.5rem;
+  background: var(--white);
+  border-radius: .5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-shadow: var(--box-shadow);
+}
+
+.header .search-form input{
+  height: 100%;
+  width: 100%;
+  background: none;
+  font-size: 1.6rem;
+  color: var(--black);
+  padding:0 1.5rem;
+}
+
+* {
+  text-decoration: none;
+}
+
+body{
+  line-height: 1;
+}
+
+main {
+  padding-top: 100px;
+}
+.space {
+  margin: 150px 0 0 5px;
+}
+table {
+   margin: 20px 20px 0 10px;
+   background-color: #9fdfbb;
+   border: 2px solid black;
+}
+table, th, td {
+  font-size: 15px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 13px;
+}
+.order {
+  margin: 10px 0 0 0px;
+}
+.buttons-1{
+  margin: 15px 0 0 134px;
+}
+.input-Product-Name{
+  width: 100px;
+  text-align: center;
+}
+.input-Product-Price{
+  width: 70px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .space {
+    margin: 60px 0 0 15px;
+  }
+  table {
+     margin: 20px 20px 0 10px;
+     background-color: #9fdfbb;
+     border: 2px solid black;
+     width: 95%;
+  }
+  table, th, td {
+    font-size: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .order {
+    margin: 15px 0 0 15px;
+  }
+  .buttons-1{
+    margin: 15px 0 0 317px;
+  }
+
+  .input-Product-Name{
+    font-size: 15px;
+    padding: 5px;
+    width: 200px;
+    margin: 0 0 0 90px;
+    text-align: center;
+  }
+  .input-Product-Price {
+    font-size: 15px;
+    padding: 5px;
+    width: 100px;
+    margin: 0 0 0 20px;
+    text-align: center;
+  }
+
+}
+
+@media only screen and (min-width: 1000px){
+  .List-of-orders{
+    margin: 0 0 0 40px;
+  }
+  .order {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+  }
+  .buttons-1{
+    margin: 15px 0 0 749px;
+  }
+  .input-Product-Name{
+    font-size: 20px;
+    padding: 2px;
+  }
+  .input-Product-Price {
+    font-size: 20px;
+    padding: 5px;
+  }
+
+  }

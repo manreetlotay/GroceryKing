@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userInfo>
+  <user>
+    <firstName/>
+    <lastName/>
+    <email>admin@example.com</email>
+    <password>admin</password>
+    <street/>
+    <city/>
+    <postalcode/>
+    <Province/>
+  </user>
+</userInfo>

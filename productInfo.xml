@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<productInfo>
+  <highestId>17</highestId>
+  <fruits>Fruits
+    <product><image>images\banana.jpg</image><id>1</id><name>Bananas</name><inventory>10</inventory><price>2.99</price><description>This soft and sweet yellow fruit can be enjoyed whenever and wherever you are.      You can eat the banana as is or add it in your smoothie. You can even make a delicious banana split with it.</description></product>
+    <product><image>images\strawberries.jpg</image><id>2</id><name>Strawberries</name><inventory>10</inventory><price>4.99</price><description>Delicious and juicy red strawberries that can be enjoyed in many different way!
+  Eat them as is or make smoothies out of them. Add them to your pie or make strawberry jam. Either way, strawberries are packed with nutrients like vitamin C and fiber.</description></product>
+    <product><image>images\orange.jpg</image><id>3</id><name>Oranges</name><inventory>10</inventory><price>3.99</price><description>Sweet and juicy seedless oranges that are sourced locally.
+        These fresh oranges are packed with vitamin C and are the perfect healthy snack to bring along wherever you go.</description></product>
+    <product><image>images\grape.jpg</image><id>4</id><name>Grapes</name><inventory>10</inventory><price>6.99</price><description>Sweet and seedless purple grapes are good for quick snack on the go for people of any age.
+        Simply wash them well and pop them in your mouth for a juicy treat.</description></product>
+  </fruits>
+  <vegetables>Vegetables
+    <product><image>images\cucumber.jpg</image><id>5</id><name>Cucumbers</name><inventory>10</inventory><price>1.99</price><description>Not only are cucumbers delicious and healthy, but they consists of 96% water.
+        Whether you plan on adding the cucumber to your salad or applying them on your eyes, they will certainly be refreshing and hydrating.</description></product>
+    <product><image>images\potato.jpg</image><id>6</id><name>Potatoes</name><inventory>10</inventory><price>6.99</price><description>Potatoes from Prince Edward Island.
+        Potatoes are versatile and can be baked, mashed or made into french fries!</description></product>
+    <product><image>images\broccoli.jpg</image><id>7</id><name>Broccolis</name><inventory>10</inventory><price>4.99</price><description>Broccoli is high in nutrients such as potassium and fiber.
+        Broccolis can be steamed, boiled or baked. They can be added to your stew, your soup, your casserole or more!</description></product>
+    <product><image>images\carrot.jpg</image><id>8</id><name>Carrots</name><inventory>10</inventory><price>3.99</price><description>Carrots can be good for your eyes as they contain beta carotene.
+        There's so many ways to eat them: boiled, steamed, stir-fried or even raw. Add them to your soup, your fried rice, your salad, anything!</description></product>
+  </vegetables>
+  <dairy>Dairy
+    <product><image>images\milk.jpg</image><id>9</id><name>Milk</name><inventory>10</inventory><price>6.99</price><description>2L jug of 2% milk sourced 100% from local Canadian dairy farms.
+        Milk is a great source of calcium and can help strenghten bones. Enjoy a good glass of cold or warm milk or pour it into your cereal bowl for a delicious breakfast.</description></product>
+    <product><image>images\egg.jpg</image><id>10</id><name>Eggs</name><inventory>10</inventory><price>4.99</price><description>Pack of 12 eggs sources from local Canadian farms.
+        Eggs are versatile and are a great source of protein. They can be made into scrambled eggs, poached eggs, sunny side up eggs, and many more.</description></product>
+    <product><image>images\cheese.jpg</image><id>11</id><name>Cheese</name><inventory>10</inventory><price>7.99</price><description>Block of cheddar cheese sourced from your local Canadian dairy farms.
+        Cheese is so versatile that you can put it in your sandwich, your pasta, your salad and so much more to add some rich flavour to your dish!</description></product>
+    <product><image>images\butter.jpg</image><id>12</id><name>Butter</name><inventory>10</inventory><price>5.99</price><description>Creamy and smooth stick of butter sourced from your local Canadian dairy farms.      Butter can be add an extra flavor to just about any dish. It is a staple ingredient in every kitchen!</description></product>
+  </dairy>
+  <meat>Meat
+    <product><image>images\chicken.jpg</image><id>13</id><name>Chicken</name><inventory>10</inventory><price>10.99</price><description>Chicken raised from our local Canadian farms are a great source of protein with no added hormones.
+        Whole chickens can be eaten in so many ways: roasted, steamed or grilled. Add them to your salad or in skewers for a guaranteed delicious meal!</description></product>
+    <product><image>images\pork.jpg</image><id>14</id><name>Pork</name><inventory>10</inventory><price>12.99</price><description>Pork raised from local Canadian farms with no added hormones.
+        Cook these pork chops for your next delicious family meal!</description></product>
+        <product><image>images\beef.jpg</image><id>15</id><name>Beef</name><inventory>10</inventory><price>15.99</price><description>Juicy beef flank that is also a good source of protein.
+            You can grill it on a barbecue in your backyard on a hot summer day to make delicious steak that will make even your neighbors drool.</description></product>
+</meat>
+  <product/>
+</productInfo>

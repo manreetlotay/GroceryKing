@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="Style.css">
+     <!-- font awesome link -->
+  <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css>
+    <title>Cart</title>
+</head>
+<header class="header">
+
+    <a href="index.php" class="logo"> <i class="fas fa-shopping-basket"> </i> Grocery King </a>
+
+  <nav class="navbar">
+    <a href="AllProducts.php">All Products</a>
+    <a href="Categories.html">Categories</a>
+  </nav>
+
+<div class="icons">
+  <div class="fas fa-bars" id="menu-btn"></div>
+  <div class="fas fa-search" id="search-btn"></div>
+   <a href="cart.html"><div class="fas fa-shopping-cart" id="cart-btn"></div></a>
+  <a href="login.html"><div class="fas fa-user" id="login-btn"></div></a>
+</div>
+
+<form action="" class="search-form">
+  <input type="search" id="search-box" placeholder="Search">
+  <label for="search-box" class="fas fa-search"></label>
+</form>
+  
+</header>
+<script src="add_cart.js"></script>
+<body onload=" displayCart() ; updateCartDetails()"> <!--new code--><!--new code--><!--new code--><!--new code-->
+    <h1>
+         <br/>
+    </h1>
+    <div class="top_cart">
+    <h2 class="cart">My cart</h2>
+    <form id="update_cart" action ="" method = "get">
+    <div> 
+    <ul id="list_cart">
+       <!--JavaScript will fill this part up-->
+       <input type="submit" id="update_cart" value="Update Cart" onclick="updateCart()"/>
+    </ul>
+    </div> <!--new code--><!--new code--><!--new code--><!--new code--><!--new code-->
+    </form>
+    </div>
+    <div id="cart_bottom_pad">
+    <h3>
+        <table id="cart_table_border">
+            <caption>Cart details</caption>
+            <tr>
+                <th>total items:</th>
+                <th id="noItems"></th>
+            </tr>
+            <tr>
+                <th>QST:</th>
+                <th id="qstTax"></th>
+            </tr>
+            <tr>
+                <th>GST:</th>
+                <th id="gstTax"></th>
+            </tr>
+            <tr>
+                <th>Total:</th>
+                <th id="totalPrice"></th>
+            </tr>
+    
+        </table>
+    </div>
+    </h3>
+<!-- footer-->
+<br></br>
+<div id="div_foot">
+<section class="footer">
+
+  <div class="box-container">
+    
+    <div class="box">
+      <h3><i class="fa-solid fa-square-share-nodes"></i> <span class="green"> Find Us </span></h3>
+      <div class="share">
+        <a href="#" class="fab fa-facebook"></a>
+        <a href="#" class="fab fa-instagram"></a>
+        <a href="#" class="fab fa-twitter"></a>
+      </div>
+    </div>
+    
+    <div class="box">
+        <h3><i class="fas fa-id-badge"></i> <span class="green"> Customer Service </span></h3>
+        <a href="#" class="links"><i class="fas fa-phone"></i><span class="green"> +1 (514) 123-4567 </span></a>
+        <a href="#" class="links"><i class="fas fa-envelope"></i><span class="green"> gk_inquiries@gmail.com </span></a>
+        <a href="#" class="links"><i class="fa-solid fa-map-location-dot"></i><span class="green"> Montreal, Canada </span></a>
+    </div>
+    
+    <div class ="box">
+      <h3><i class="fa-solid fa-newspaper"></i><span class="green"> Newsletter </span></h3>
+      <p><span class="green"> Subscribe For Latest Updates </span></p>
+      <input type="email" placeholder="Email Address" class="email">
+      <input type="submit" value="subscribe" class="btn">
+      <img src="images/Payments.png" class="payments-img" alt="Card Payment Options">
+    </div>
+    
+    </div>
+    
+  <div class="credit"> Created By <span> Team:) </span> | All Rights Reserved </div>
+    
+</section>
+</div>
+</body>
+
+
+</html>
